@@ -2,12 +2,12 @@ public class Main
 {
 	public static void main(String[] args) {
 	
-	int H = 1;
+     H();
 	
 	}
-	public static void H (int a){
-	for (int d = 0 ; d < 11 ; d++){
+	public static void H (){
+	for (int d = 1 ; d < 11 ; d++){
 	    System.out.println(d);
 	}
-	}
+	}	
 }
